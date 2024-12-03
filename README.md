@@ -48,7 +48,7 @@ Here are the links to the dataset and pre-trained and fine-tuned models used in 
 - **Dataset**: [GoEmotions Dataset](https://huggingface.co/datasets/google_research_datasets/go_emotions)
 - **Distilbert Model**:[DistilBERT](https://huggingface.co/distilbert/distilbert-base-uncased)
 - **PyTorch Model**: [go-emotions-distilbert-pytorch](https://huggingface.co/tuhanasinan/go-emotions-distilbert-pytorch)
-- **TensorFlow Model**: [go-emotions-distilbert-tensorflow](https://huggingface.co/tuhanasinan/go-emotions-distilbert-tensorflow)
+- **TensorFlow Model**: [go-emotions-distilbert-tensorflow](https://huggingface.co/tuhanasinan/go_emotions-distilbert-tensorflow)
 
 
 
