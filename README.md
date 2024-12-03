@@ -31,10 +31,6 @@ To use the PyTorch model for emotion classification, you can use the following c
 from transformers import pipeline
 
 pipe = pipeline("text-classification", model="tuhanasinan/go-emotions-distilbert-pytorch")
-
-custom_text = "I am so happy to see you!"
-predictions = pipe(custom_text)
-print(predictions)
 ```
 ### TensorFlow Model:
 To use the TensorFlow model for emotion classification, you can use the following code snippet:
@@ -44,10 +40,6 @@ To use the TensorFlow model for emotion classification, you can use the followin
 from transformers import pipeline
 
 pipe = pipeline("text-classification", model="tuhanasinan/go_emotions-distilbert-tensorflow")
-
-custom_text = "I feel incredibly loved and valued!"
-predictions = pipe(custom_text)
-
 ```
 ## Link
 
