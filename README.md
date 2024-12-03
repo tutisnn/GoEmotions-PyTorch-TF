@@ -1,4 +1,4 @@
-# GoEmotions-PyTorch-TF
+# GoEmotions-PyTorch-TensorFlow
 
 This project focuses on classifying emotions from text using the **DistilBERT** model, implemented in both **PyTorch** and **TensorFlow**. The dataset used is the "GoEmotions" dataset, which contains a variety of emotional labels.
 
