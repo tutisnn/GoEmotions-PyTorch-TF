@@ -41,7 +41,7 @@ from transformers import pipeline
 
 pipe = pipeline("text-classification", model="tuhanasinan/go_emotions-distilbert-tensorflow")
 ```
-## Link
+## Links
 
 Here are the links to the dataset and pre-trained and fine-tuned models used in this project:
 
@@ -50,8 +50,7 @@ Here are the links to the dataset and pre-trained and fine-tuned models used in 
 - **PyTorch Model**: [go-emotions-distilbert-pytorch](https://huggingface.co/tuhanasinan/go-emotions-distilbert-pytorch)
 - **TensorFlow Model**: [go-emotions-distilbert-tensorflow](https://huggingface.co/tuhanasinan/go-emotions-distilbert-tensorflow)
 
-Kaggle Links
-[Go_Emotions_Analaysis_DistilBERT_pytorch](https://www.kaggle.com/code/tuhanasinan/go-emotions-analysis-pytorch)
+
 
 
 
